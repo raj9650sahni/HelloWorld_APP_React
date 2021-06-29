@@ -7,13 +7,14 @@ h1 {
 
 img {
   display: block;
-  margin:0px;
+  margin:0 auto;
   width: 25%;
+  cursor: pointer;
 
 }
 
 .flex-container {
   display: flex;
-  justify-content: center;
+  justify-content:center;
 
 }

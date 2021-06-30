@@ -12,9 +12,7 @@ img {
   cursor: pointer;
 
 }
-
-.flex-container {
+.text-box{
   display: flex;
-  justify-content:center;
-
+  justify-content: center;
 }
